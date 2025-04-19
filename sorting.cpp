@@ -2,8 +2,9 @@
 using namespace std;
 
 
-void insertionSort(
-	)
+void insertionSort(){
+
+}
 
 
 int main(){
